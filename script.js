@@ -8,9 +8,9 @@ console.log(newelement)
 
 const buttonId = document.getElementById("buttonId");
 buttonId.addEventListener("click", (countSelected) => {
-  const musicTypes = document.getElementById ("musicTypes")  
-  musicTypes
-document.getElementById("hei").textContent = "Denne teksten er endret med javaScript"
+  // const musicTypes = document.getElementById ("musicTypes")  
+  // musicTypes
+document.getElementById("creat_elementDIVId").textContent = "Denne teksten er endret med javaScript"
 
 // const musicTypes = document.selectForm.musicTypes;
 // console.log(`You have selected ${countSelected(musicTypes)} option(s).`); 
