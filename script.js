@@ -7,7 +7,7 @@ const smileys = ['😀', '😃', '😄', '😁', '😆'];
 const buttonId = document.getElementById("buttonId");
 
 
-    buttonId.addEventListener("click", function() {
+    buttonId.addEventListener("mouseover", function() {
       
       // const musicTypes = document.getElementById ("musicTypes")  
       // musicTypes
